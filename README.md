@@ -1,6 +1,6 @@
 # dialog_opc4
 
-A Flutter project with a simple dialog.
+A Flutter project with a SnackBar dialog.
 
 ## Getting Started
 
