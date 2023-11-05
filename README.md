@@ -1,6 +1,6 @@
 # dialog_opc4
 
-A new Flutter project.
+A Flutter project with a simple dialog.
 
 ## Getting Started
 
